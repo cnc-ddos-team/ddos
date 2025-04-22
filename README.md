@@ -38,3 +38,7 @@ Method -- CNC
 ```sh
 Telegram: @Cnc_Saiwana1
 ```
+# Key:
+```sh
+1440-HOUR-CncSaiwana-85702
+```
