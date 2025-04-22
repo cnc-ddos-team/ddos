@@ -4,7 +4,7 @@
 
 # Setup
 ```sh
-git clone https://github.com/Saiwana98/Ddos.git
+git clone https://github.com/cnc-ddos-team/ddos.git
 cd Ddos/
 npm i requests
 npm i https-proxy-agent
